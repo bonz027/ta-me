@@ -1,17 +1,11 @@
-{
+r{
   "name": "ta-me",
   "version": "1.0.0",
   "description": "",
-<<<<<<< HEAD
   "main": "api_routes.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-=======
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> 151008bf5c712eaa38e468cf8688505090746b82
   },
   "repository": {
     "type": "git",
@@ -24,8 +18,6 @@
   },
 <<<<<<< HEAD
   "homepage": "https://github.com/bonz027/ta-me#readme"
-=======
-  "homepage": "https://github.com/bonz027/ta-me#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cors": "^2.7.1",
@@ -34,5 +26,4 @@
     "morgan": "^1.7.0",
     "path": "^0.12.7"
   }
->>>>>>> 151008bf5c712eaa38e468cf8688505090746b82
 }
